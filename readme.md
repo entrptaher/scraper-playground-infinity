@@ -1,0 +1,1 @@
+Upgraded version of https://github.com/entrptaher/plaground-scrape-infinity-load.
